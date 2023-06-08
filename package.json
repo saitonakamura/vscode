@@ -1,7 +1,7 @@
 {
   "name": "vitest-explorer",
   "displayName": "Vitest",
-  "version": "0.2.41",
+  "version": "0.2.42",
   "description": "Run and debug Vitest test cases",
   "icon": "img/icon.png",
   "preview": true,
@@ -175,7 +175,7 @@
     "@types/ws": "^8.5.3",
     "@typescript-eslint/eslint-plugin": "^5.12.1",
     "@typescript-eslint/parser": "^5.12.1",
-    "@vitest/ws-client": "^0.12.6",
+    "@vitest/ws-client": "^0.32.0",
     "@vscode/test-electron": "^2.1.2",
     "@vue/reactivity": "^3.2.33",
     "@vueuse/core": "^8.4.2",
@@ -192,8 +192,8 @@
     "tree-kill": "^1.2.2",
     "tsup": "^5.12.7",
     "typescript": "^4.9.5",
-    "vite": "^2.8.6",
-    "vitest": "latest",
+    "vite": "^4.3.9",
+    "vitest": "0.32.0",
     "ws": "^8.6.0"
   },
   "lint-staged": {
